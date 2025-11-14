@@ -1,2 +1,2 @@
-# server-calculator-http
-Kalkulator działający na protokole HTTP
+# Kalkulator działający na protokole HTTP
+Nauka API do pisania serwerów HTTP i obsługi błędów. 
