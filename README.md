@@ -56,3 +56,9 @@ Nauka API do pisania serwerów HTTP i obsługi błędów.
 - ### Niepoprawna wartość w polu (nie float) <- obsługiwany automatycznie przez FastAPI
 - ### Niepoprawna operacja (operacja nieobsługiwana przez serwer) <- Handled
 - ### Niepoprawna operacja (dzielenie przez zero) <- Handled
+
+## Freezowanie i instalowanie zależności:
+
+- ### pip install pipreqs
+  - ### pipreqs .
+- ### python3 -m pip install -r [nazwa pliku requirements].txt
